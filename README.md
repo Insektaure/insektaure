@@ -113,20 +113,3 @@ interactive tooling for Pokémon games, plus a few system utilities.
 | **[Event-Raid-Injector](https://github.com/Insektaure/Event-Raid-Injector)** | Injects past raid events and mass outbreaks back into a Scarlet/Violet save. | [![stars](https://img.shields.io/github/stars/Insektaure/Event-Raid-Injector?style=flat-square&label=&color=6366f1)](https://github.com/Insektaure/Event-Raid-Injector/stargazers) |
 
 <sub>Also: [pkBakery](https://github.com/Insektaure/pkBakery) · [LEMP-docker-dev](https://github.com/Insektaure/LEMP-docker-dev) · [Python-docker-dev](https://github.com/Insektaure/Python-docker-dev) · [Character-Concept-Art-Prompts](https://github.com/Insektaure/Character-Concept-Art-Prompts)</sub>
-
----
-
-## Stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Insektaure&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366f1&icon_color=6366f1&text_color=a1a1aa">
-  <img src="https://github-readme-stats.vercel.app/api?username=Insektaure&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366f1&icon_color=6366f1&text_color=52525b" height="165" alt="GitHub stats">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Insektaure&layout=compact&hide_border=true&bg_color=00000000&title_color=6366f1&text_color=a1a1aa">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Insektaure&layout=compact&hide_border=true&bg_color=00000000&title_color=6366f1&text_color=52525b" height="165" alt="Top languages">
-</picture>
-
-</div>

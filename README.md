@@ -19,8 +19,6 @@ I craft clean, performant, and thoughtful solutions for the modern web.
 Nearly **20 years** of experience across **6+ industries** — web agencies, TV networks,
 healthcare, e-commerce, telecoms and startups. I design systems that stay maintainable
 long after the launch, lead and mentor engineering teams, and keep production boring.
-These days that means full-stack TypeScript (NestJS, Angular, React Native), Kubernetes
-and GitOps — with AI coding agents in the loop and a human reviewing every merge.
 
 Off the clock I'm a homebrew developer: most of what you'll find here is
 low-level C/C++ for the Nintendo Switch.

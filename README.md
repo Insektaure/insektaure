@@ -24,7 +24,7 @@ Off the clock I'm a homebrew developer: most of what you'll find here is
 low-level C/C++ for the Nintendo Switch.
 
 ```text
-📍 France            🎯 Currently employed · open to opportunities
+📍 France            🎯 Currently employed
 🛠️  Backend · Frontend · Mobile · DevOps · Architecture
 🎮 Homebrew · 🎸 Rock/Pop/Metal guitar · 📚 Fantasy · ⛩️ Japanese culture · 🎬 Cinema
 ```
